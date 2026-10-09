@@ -8,3 +8,4 @@ streamlit-webrtc
 streamlit-autorefresh
 insightface
 onnxruntime
+cv2
