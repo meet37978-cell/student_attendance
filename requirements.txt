@@ -6,3 +6,5 @@ av
 Pillow
 streamlit-webrtc
 streamlit-autorefresh
+insightface
+onnxruntime
