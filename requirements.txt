@@ -9,3 +9,4 @@ streamlit-webrtc
 streamlit-autorefresh
 insightface
 onnxruntime
+opencv-python-headless
