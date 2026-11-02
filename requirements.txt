@@ -1,4 +1,3 @@
-
 streamlit
 pandas
 numpy==1.26.4
@@ -7,6 +6,5 @@ av
 Pillow
 streamlit-webrtc
 streamlit-autorefresh
-insightface
+insightface==0.7.3
 onnxruntime
-opencv-python-headless
